@@ -17,7 +17,7 @@ jupyter nbconvert --to latex merged.ipynb
 sed -i.bak 's/\\section{A Whirlwind Tour/\\section*{\\huge A Whirlwind Tour/g' merged.tex
 
 # delete ipynb toc
-sed -i.bak -e '301,341d' merged.tex
+sed -i.bak -e '302,342d' merged.tex
 sed -i.bak 's/\\subsection{Contents}\\label{contents}/\\setcounter{tocdepth}{2}\\tableofcontents{}/g' merged.tex
 sed -i.bak 's/\\maketitle//g' merged.tex
 sed -i.bak 's/\\subsection{License and Citation}/\\subsection*{License and Citation}/g' merged.tex
