@@ -2,7 +2,7 @@
 
 *James Bagrow, August 2019*
 
-This mini-text serves as introductory reading for my course, [Data Science I](http://bagrow.com/ds1), held at the
+This mini-text serves as introductory reading for my course, [Data Science I](https://bagrow.com/ds1), held at the
 University of Vermont. It has been lightly adapted and specialized from the original
 "A Whirlwind Tour of Python"
 by [Jake VanderPlas](http://vanderplas.com/), and he deserves most of the credit for this work.
