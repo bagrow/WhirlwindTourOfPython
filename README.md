@@ -1,26 +1,24 @@
 # A Whirlwind Tour of Python for STAT/CS 287
 
-*James Bagrow, August 2016*
+*James Bagrow, August 2019*
 
-This mini-text serves as introductory reading for my course, [*Data Science I*](http://bagrow.com/ds1/), held at the
-University of Vermont. It has been very lightly adapted and specialized from the original
-[*A Whirlwind Tour of Python*](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) by Jake VanderPlas, and he deserves the overwhelming majority of credit for this work.
+This mini-text serves as introductory reading for my course, [Data Science I](http://bagrow.com/ds1), held at the
+University of Vermont. It has been lightly adapted and specialized from the original
+"A Whirlwind Tour of Python"
+by [Jake VanderPlas](http://vanderplas.com/), and he deserves most of the credit for this work.
 
 
 
 *A Whirlwind Tour of Python* is a fast-paced introduction to essential
-components of the Python language for researchers and developers who are
+components of the [Python language](https://www.python.org) for researchers and developers who are
 already familiar with programming in another language.
 
 The material is particularly aimed at those who wish to use Python for data 
 science and/or scientific programming, and in this capacity serves as an
-introduction to Jake VanderPlas' upcoming book,
-[*The Python Data Science Handbook*](http://shop.oreilly.com/product/0636920034919.do) 
-(also [on github](https://github.com/jakevdp/PythonDataScienceHandbook)).
+introduction to Jake VanderPlas' book, The Python Data Science Handbook.
 
 
 ## Contents
-
 
 1. [Title](00-Title.ipynb)
 1. [Introduction](01-Introduction.ipynb)
@@ -33,13 +31,14 @@ introduction to Jake VanderPlas' upcoming book,
 1. [Strings](08-Strings.ipynb)
 1. [Control Flow Statements](09-Control-Flow-Statements.ipynb)
 1. [Defining Functions](10-Defining-Functions.ipynb)
-1. [Errors and Exceptions](11-Errors-and-Exceptions.ipynb)
-1. [Iterators](12-Iterators.ipynb)
-1. [List Comprehensions](13-List-Comprehensions.ipynb)
+1. [Classes and Methods](11-Classes-Methods.ipynb)
+1. [Errors and Exceptions](12-Errors-and-Exceptions.ipynb)
+1. [Iterators and List Comprehensions](13-Iterators-and-List-Comprehensions.ipynb)
 1. [Modules and Packages](14-Modules-and-Packages.ipynb)
-1. [Preview of Data Science Tools](15-Preview-of-Data-Science-Tools.ipynb)
-1. [Resources for Further Learning](16-Further-Resources.ipynb)
-1. [Appendix: Code To Reproduce Figures](17-Appendix-Figures.ipynb)
+1. [Working with Files and Folders](15-Files-and-Folders.ipynb)
+1. [Preview of Data Science Tools](16-Preview-of-Data-Science-Tools.ipynb)
+1. [Timing and Profiling Python Code](17-Timing-and-Profiling.ipynb)
+1. [Resources for Further Learning](18-Further-Resources.ipynb)
 
 
 
