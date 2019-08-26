@@ -18,6 +18,8 @@ science and/or scientific programming, and in this capacity serves as an
 introduction to Jake VanderPlas' book, The Python Data Science Handbook.
 
 
+* This material is also available online at [bagrow.com/ds1](https://bagrow.com/ds1/whirlwindtourpython/00-Title.html).
+
 ## Contents
 
 1. [Title](00-Title.ipynb)

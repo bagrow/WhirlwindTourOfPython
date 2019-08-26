@@ -23,7 +23,7 @@ sed -i.bak 's/\\begin{figure}/\\begin{figure}\[h!\]/g' merged.tex
 
 # delete ipynb toc
 #sed -i.bak -e '302,342d' merged.tex
-sed -i.bak -e '318,361d' merged.tex
+sed -i.bak -e '325,368d' merged.tex
 sed -i.bak 's/\\subsection{Contents}\\label{contents}/\\setcounter{tocdepth}{2}\\tableofcontents{}/g' merged.tex
 sed -i.bak 's/\\maketitle//g' merged.tex
 sed -i.bak 's/\\subsection{License and Citation}/\\subsection*{License and Citation}/g' merged.tex
